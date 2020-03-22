@@ -1,30 +1,32 @@
 # README #
 
-This repository contains a set of quick guides to deploy and share your AI models on [SeeMe.ai](https://seeme.ai).
+This repository contains a set of quick guides to deploy and share your AI models on [SeeMe.ai](https://seeme.ai), the AI marketplace.
+
+We are building the tools for you to easily **train, use and share AI models** for fun and profit.
 
 # 0. Guide overview
 
-* [Fast.ai v1]()
-* [Fast.ai v2]()
+* TODO [Fast.ai v1]()
+* TODO [Fast.ai v2]()
 
 # 1. Guide structure #
 
 These guides focus on getting your model deployed and shared on [Seeme.ai](https://seeme.ai).
 
-## Setup ##
+## 1.0. Setup ##
 
 * Set up SeeMe SDK
 * Links to setup instructions for the particular framework
 
-## Train a simple model  ##
+## 1.1. Train a simple model  ##
 
 We will train a basic model to make sure you have something to reproduce and test with. Of course, you can easily train a model with your own data...
 
-## Deploy your model ##
+## 1.2. Deploy your model ##
 
 Step-by-step instructions to deploy your model onto [SeeMe.ai](https://seeme.ai).
 
-## Use your model ##
+## 1.3. Use your model ##
 
 Discuss the various ways to use your model:
 
@@ -32,11 +34,11 @@ Discuss the various ways to use your model:
 - The web
 - iOS app
 
-## Share your model ##
+## 1.4. Share your model ##
 
 Share your work with friends, colleagues and the world. For fun and profit.
 
-## More resources ##
+## 1.5. More resources ##
 
 Interesting links 
 
