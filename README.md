@@ -7,7 +7,7 @@ We are building the tools for you to easily **train, use and share AI models** f
 # 0. Guide overview
 
 * TODO [Fast.ai v1]()
-* TODO [Fast.ai v2]()
+* [Fast.ai v2](https://github.com/zerotosingularity/seeme-quick-guides/blob/master/seeme-quick-guide-fastai-v2.ipynb)
 
 # 1. Guide structure #
 
