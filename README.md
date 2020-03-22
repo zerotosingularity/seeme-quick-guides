@@ -32,7 +32,8 @@ Discuss the various ways to use your model:
 
 - Python SDK
 - The web
-- iOS app
+- iOS/Android app
+- Other platforms
 
 ## 1.4. Share your model ##
 
