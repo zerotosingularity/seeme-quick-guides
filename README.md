@@ -1,29 +1,27 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This repository contains a set of quick guides to deploy your AI models on [SeeMe.ai](https://seeme.ai).
 
-### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+# Guide structure #
 
-### How do I get set up? ###
+These guides focus on getting your model deploy
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+## Setup ##
 
-### Contribution guidelines ###
+## Train a simple model  ##
 
-* Writing tests
-* Code review
-* Other guidelines
+## Deploy your model ##
 
-### Who do I talk to? ###
+## Use your model ##
 
-* Repo owner or admin
-* Other community or team contact
+## Share your model ##
+
+## More resources ##
+
+
+# Support #
+
+More documentation is on its way, but you can always contact us for more info:
+
+[guides@seeme.ai](mailto:guides@seeme.ai)
