@@ -6,8 +6,8 @@ We are building the tools for you to easily **train, use and share AI models** f
 
 # 0. Guide overview
 
-* [Fast.ai v1](https://github.com/zerotosingularity/seeme-quick-guides/blob/master/seeme-quick-guide-fastai-v1.ipynb)
-* [Fast.ai v2](https://github.com/zerotosingularity/seeme-quick-guides/blob/master/seeme-quick-guide-fastai-v2.ipynb)
+* [Fast.ai v1 (if you're not sure: start here)](https://github.com/zerotosingularity/seeme-quick-guides/blob/master/seeme-quick-guide-fastai-v1.ipynb)
+* [Fast.ai v2 (preview)](https://github.com/zerotosingularity/seeme-quick-guides/blob/master/seeme-quick-guide-fastai-v2.ipynb)
 
 # 1. Guide structure #
 
