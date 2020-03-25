@@ -6,9 +6,11 @@ We are building the tools for you to easily **train, use and share AI models** f
 
 SeeMe.ai is currently in development and things might break:
 
-For the beta period, you can host one model with up to 500 predictions for free;
-We are working on a fair and sustainable pricing (contact iwantto@seeme.ai for more info);
-We rely on your code of honor for fair use.
+For the beta period, 
+
+- you can host one model with up to 500 predictions for free;
+- We are working on a fair and sustainable pricing (contact iwantto@seeme.ai for more info);
+- We rely on your code of honor for fair use.
 
 # 0. Guide overview
 
