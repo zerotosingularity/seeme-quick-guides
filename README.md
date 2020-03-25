@@ -4,6 +4,12 @@ This repository contains a set of quick guides to deploy and share your AI model
 
 We are building the tools for you to easily **train, use and share AI models** for fun and profit.
 
+SeeMe.ai is currently in development and things might break:
+
+For the beta period, you can host one model with up to 500 predictions for free;
+We are working on a fair and sustainable pricing (contact iwantto@seeme.ai for more info);
+We rely on your code of honor for fair use.
+
 # 0. Guide overview
 
 * [Fast.ai v1 (if you're not sure: start here)](https://github.com/zerotosingularity/seeme-quick-guides/blob/master/seeme-quick-guide-fastai-v1.ipynb)
