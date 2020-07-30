@@ -1,3 +1,9 @@
+# IMPORTANT #
+
+This Repository has moved to https://github.com/SeeMe-ai/fastai-quick-guides.
+
+It will no longer be updated but the source will remain here, at least for the time being.
+
 # README #
 
 This repository contains a set of quick guides to deploy and share your AI models on [SeeMe.ai](https://seeme.ai), the AI marketplace.
