@@ -2,7 +2,7 @@
 
 This Repository has moved to https://github.com/SeeMe-ai/fastai-quick-guides.
 
-It will no longer be updated but the source will remain here, at least for the time being.
+Please use the link above for the updated quick guides. This repo will be deleted.
 
 # README #
 
